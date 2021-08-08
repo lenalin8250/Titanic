@@ -1,2 +1,3 @@
 # Titanic
-Kaggle Competition Project with python
+Creating basic Machine Learning Model 
+A kaggle competition exercise
